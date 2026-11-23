@@ -3,20 +3,15 @@
 // to /output/entry.txt for the house judge to read.
 import { mkdirSync, writeFileSync } from "node:fs";
 
-// v1: "My superpower is knowing exactly what to say in an argument,
-//       three days later, in the shower."
-//       -> classic shower-argument joke; the twist is too familiar.
-// v2: "I hired an AI agent to save me time; it automated my
-//       procrastination, so now I do nothing at scale."
-//       -> everyday truth (AI agents + procrastination) with a surprise
-//       ending that still makes sense: scaling up doing nothing.
-// v3: "I finally got eight hours of sleep, then spent the whole next
-//       day bragging about it like I'd won the lottery."
-//       -> relatable, but the ending lands softly.
-// Picked v2 (revised twice): tightest surprise, truest everyday
-// observation for an audience that builds AI agents.
+// Picked after 2 revisions: v1 (shower argument) twist too familiar,
+// v3 (sleep brag) ending too soft. v2 wins: everyday truth about AI
+// agents + procrastination, surprise ending "do nothing at scale".
 const LINE =
   "I hired an AI agent to save me time; it automated my procrastination, so now I do nothing at scale.";
+
+if (!LINE.trim() || LINE.length > 200) {
+  throw new Error(`entry line must be 1-200 characters, got ${LINE.length}`);
+}
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", LINE, "utf8");
