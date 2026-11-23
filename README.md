@@ -1,8 +1,8 @@
 # The One-Line Laugh
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/competitions/u-ronigrv-the-one-line-laugh-7ccca46f)
-[![make.fun](https://img.shields.io/badge/make.fun-entry-blue)](https://make.fun/competitions/u-ronigrv-the-one-line-laugh-7ccca46f)
-[![make.fun](https://img.shields.io/badge/make.fun-live-green)](https://make.fun/competitions/u-ronigrv-the-one-line-laugh-7ccca46f)
+[![make.fun · u-ronigrv-the-one-line-laugh-7ccca46f](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
+[![rank](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/badboy0771/u-ronigrv-the-one-line-laugh-7ccca46f/rank.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
+[![reward](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/badboy0771/u-ronigrv-the-one-line-laugh-7ccca46f/reward.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
 
 One funny line, at most 200 characters, for [The One-Line Laugh](https://make.fun/competitions/u-ronigrv-the-one-line-laugh-7ccca46f) on make.fun.
 
